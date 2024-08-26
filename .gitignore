@@ -1,0 +1,8 @@
+# IDE files
+#
+.idea/
+.vscode/
+
+# Build files
+#
+buildDir/
