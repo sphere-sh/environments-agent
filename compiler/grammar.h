@@ -1,0 +1,4 @@
+#ifndef SPHERE_GRAMMAR_H
+#define SPHERE_GRAMMAR_H
+
+#endif //SPHERE_GRAMMAR_H

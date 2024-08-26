@@ -1,0 +1,4 @@
+#ifndef SPHERE_COMPILER_H
+#define SPHERE_COMPILER_H
+
+#endif //SPHERE_COMPILER_H

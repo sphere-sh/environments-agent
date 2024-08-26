@@ -1,0 +1,4 @@
+#ifndef SPHERE_CODEGEN_H
+#define SPHERE_CODEGEN_H
+
+#endif //SPHERE_CODEGEN_H
